@@ -6,6 +6,7 @@ The Yeald-AI is an AI-powered web application that can classify cow and buffalo 
 This project addresses real-world challenges such as:<br>
 -Rapid identification of animal breeds for farmers, breeders, and veterinarians.<br>
 -Avoiding misclassification of non-animal images using an “unknown” class.<br>
+-Receive AI-driven mating recommendations based on breed characteristics and compatibility.<br>
 -A unified, easy-to-use interactive web interface .<br>
 
 🔑 Key Features
@@ -15,6 +16,7 @@ This project addresses real-world challenges such as:<br>
 ⚠️ Unknown Class Detection: Detects humans, random objects, and non-target animals.<br>
 🖼️ Interactive Web App: Upload an image and see the prediction instantly.<br>
 🔍 Object Detection: Pre-checks if a cow or buffalo is present before breed classification and recommendation.<br>
+💑 Mating Recommendations: Suggests optimal pairing based on breed compatibility, age, and production traits.<br>
 
 Prototype images:
 <p align="center">
