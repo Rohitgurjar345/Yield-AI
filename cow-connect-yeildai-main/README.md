@@ -1,18 +1,23 @@
-# Welcome to your Lovable project
-
 ## Project info
+💡 Project Overview
 
-**URL**: https://lovable.dev/projects/b3a0cacc-000f-4651-92cf-a9154d53ae36
+The Yeald-AI is an AI-powered web application that can classify cow and buffalo breeds from images.
 
-## How can I edit this code?
+-This project addresses real-world challenges such as:
+-Rapid identification of animal breeds for farmers, breeders, and veterinarians.
+-Avoiding misclassification of non-animal images using an “unknown” class.
+-A unified, easy-to-use interactive web interface .
 
-There are several ways of editing your application.
+🔑 Key Features
 
-**Use Lovable**
+🐄 Cow Breed Classification: Sahiwal, Jersey, Red Sindhi, and more.
+🐃 Buffalo Breed Classification: Murrah, Jaffarabadi, Bhadawari, etc.
+⚠️ Unknown Class Detection: Detects humans, random objects, and non-target animals.
+🖼️ Interactive Web App: Upload an image and see the prediction instantly.
+🔍 Object Detection: Pre-checks if a cow or buffalo is present before breed classification and recommendation.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b3a0cacc-000f-4651-92cf-a9154d53ae36) and start prompting.
+**URL**:[https://cow-connect-yeildai.lovable.app/]
 
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -60,14 +65,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/b3a0cacc-000f-4651-92cf-a9154d53ae36) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
