@@ -16,6 +16,11 @@ The Yeald-AI is an AI-powered web application that can classify cow and buffalo 
 🖼️ Interactive Web App: Upload an image and see the prediction instantly.
 🔍 Object Detection: Pre-checks if a cow or buffalo is present before breed classification and recommendation.
 
+Prototype images:
+![alt text](cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_.png) ![alt text](<cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition (1).png>) ![alt text](<cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition (2).png>) ![alt text](<cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition (3).png>) ![alt text](<cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition (4).png>) ![alt text](cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition.png)
+
+
+
 **URL**:[https://cow-connect-yeildai.lovable.app/]
 
 
