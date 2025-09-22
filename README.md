@@ -3,23 +3,28 @@
 
 The Yeald-AI is an AI-powered web application that can classify cow and buffalo breeds from images.
 
--This project addresses real-world challenges such as:
--Rapid identification of animal breeds for farmers, breeders, and veterinarians.
--Avoiding misclassification of non-animal images using an “unknown” class.
--A unified, easy-to-use interactive web interface .
+This project addresses real-world challenges such as:<br>
+-Rapid identification of animal breeds for farmers, breeders, and veterinarians.<br>
+-Avoiding misclassification of non-animal images using an “unknown” class.<br>
+-A unified, easy-to-use interactive web interface .<br>
 
 🔑 Key Features
 
-🐄 Cow Breed Classification: Sahiwal, Jersey, Red Sindhi, and more.
-🐃 Buffalo Breed Classification: Murrah, Jaffarabadi, Bhadawari, etc.
-⚠️ Unknown Class Detection: Detects humans, random objects, and non-target animals.
-🖼️ Interactive Web App: Upload an image and see the prediction instantly.
-🔍 Object Detection: Pre-checks if a cow or buffalo is present before breed classification and recommendation.
+🐄 Cow Breed Classification: Sahiwal, Jersey, Red Sindhi, and more. <br>
+🐃 Buffalo Breed Classification: Murrah, Jaffarabadi, Bhadawari, etc.<br>
+⚠️ Unknown Class Detection: Detects humans, random objects, and non-target animals.<br>
+🖼️ Interactive Web App: Upload an image and see the prediction instantly.<br>
+🔍 Object Detection: Pre-checks if a cow or buffalo is present before breed classification and recommendation.<br>
 
 Prototype images:
-![alt text](cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_.png) ![alt text](<cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition (1).png>) ![alt text](<cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition (2).png>) ![alt text](<cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition (3).png>) ![alt text](<cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition (4).png>) ![alt text](cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition.png)
-
-
+<p align="center">
+  <img src="cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_.png" alt="Main App" width="150"/>
+  <img src="cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition (1).png" alt="Recognition 1" width="150"/>
+  <img src="cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition (2).png" alt="Recognition 2" width="150"/>
+  <img src="cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition (3).png" alt="Recognition 3" width="150"/>
+  <img src="cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition (4).png" alt="Recognition 4" width="150"/>
+  <img src="cow-connect-yeildai-main/src/assets/cow-connect-yeildai.lovable.app_recognition.png" alt="Recognition Final" width="150"/>
+</p>
 
 **URL**:[https://cow-connect-yeildai.lovable.app/]
 
